@@ -8,7 +8,7 @@ import 'package:reci/Provider/theme_provider.dart';
 import 'package:reci/auth/str_builder.dart';
 import 'package:reci/firebase_options.dart';
 import 'package:reci/screenBnb/providerforbnb/favorite_provider.dart';
-
+ // main file
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
